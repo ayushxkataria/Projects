@@ -1,0 +1,9 @@
+Linux Commands
+
+ls      - List files
+cd      - Change directory
+mkdir   - Create folder
+cp      - Copy files
+tar     - Archive files
+date    - Show date
+cron    - Schedule tasks
